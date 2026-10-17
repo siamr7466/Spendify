@@ -5,20 +5,6 @@ Designed with a clean, modern UI and powered by **Provider** for state managemen
 
 ---
 
-## 📱 Screenshots
-
-| Get Started | Home | Add Transaction |
-| :---: | :---: | :---: |
-| <img src="screenshots/get_started.png" width="200"/> | <img src="screenshots/home.png" width="200"/> | <img src="screenshots/add.png" width="200"/> |
-
-| Stats | Settings | Dark Mode |
-| :---: | :---: | :---: |
-| <img src="screenshots/stats.png" width="200"/> | <img src="screenshots/settings.png" width="200"/> | <img src="screenshots/dark_mode.png" width="200"/> |
-
-*(Note: Add your own screenshots in a `screenshots/` folder to display them here).*
-
----
-
 ## 🚀 Features
 
 ### ✅ Fully Functional
