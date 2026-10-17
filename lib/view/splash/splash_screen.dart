@@ -46,7 +46,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Icon(Icons.account_balance_wallet, size: 80, color: Colors.green),
             SizedBox(height: 16),
             Text(
-              "Expense Tracker",
+              "Spendify",
               style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
           ],
